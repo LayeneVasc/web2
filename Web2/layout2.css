@@ -1,0 +1,38 @@
+body {
+    background:url(img/68-688695_spongebob-background.jpg);
+
+}
+#container{
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 65px;
+    display: flex;
+    width: 400px;
+    height: 90px;
+    margin-left: 430px;
+    margin-top: 35px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+
+}
+
+#information {
+    color: rgb(252, 252, 252);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    display: flex;
+    width: 800px;
+    height: 400px;
+    margin-top: 1px;
+    margin-left: 230px;
+    text-align: center;
+
+}
+
+
+
